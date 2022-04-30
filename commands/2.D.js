@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'rozvrh 2.D',
+    name: '2.D',
     description: "toto je obrazok rozvrhu triedy 2.D",
     execute(message, args){
         message.channel.send('Toto je rozvrh triedy 2.D: \n'),
