@@ -1,4 +1,3 @@
-@@ -0,0 +1,9 @@
 module.exports = {
     name: 'rozvrh 2.D',
     description: "toto je obrazok rozvrhu",
