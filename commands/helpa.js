@@ -7,7 +7,7 @@ module.exports = {
         const ahojjo = new Discord.MessageEmbed()
 
         .setColor('#0677D7')
-        .setTitle('Vsetky commandy pre "rozvrhBOT')
+        .setTitle('Vsetky commandy pre "rozvrhBOT"')
         .addFields(
             {name: '-rozvrh' , value: 'obrazok rozvrhu'},
             {name: '-cau', value: 'pozdrav od BOTa'},
