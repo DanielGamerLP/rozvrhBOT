@@ -6,6 +6,7 @@ module.exports = {
         message.channel.send('-rozvrh');
         message.channel.send('-ahoj');
         message.channel.send('-help');
+        message.channel.send('-rozvrh 2.D');
         
     }
 }
