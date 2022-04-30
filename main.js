@@ -39,7 +39,7 @@ client.on('message', message => {
      }
     
     if(command == '2.D'){
-        client.commands.get('rozvrh 2.D').execute(message,args);
+        client.commands.get('2.D').execute(message,args);
     }
 
 });
