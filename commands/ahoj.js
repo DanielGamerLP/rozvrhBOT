@@ -6,19 +6,17 @@ module.exports = {
         var rating = Math.floor(Math.random() * 4) + 1;
 
         if(rating == 1){
-            message.reply('Nazdar!');
+            message.reply('Ahoj!');
         }
         if(rating == 2){
-            message.reply('Cau!');
+            message.reply('Čau!');
         }
         if(rating == 3){
-            message.reply('Cmuk! ;P')
+            message.reply('Nazdar! ;P')
         }
         if(rating == 4){
-            message.reply('Ahoj mojko *O*');
+            message.reply('Ahoj mojko!');
         }
-        
-        message.reply(`Cislo je zo ${rating}/4`);
 
     }
 }
